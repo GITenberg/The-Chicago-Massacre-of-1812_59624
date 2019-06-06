@@ -1,0 +1,23 @@
+_repo: The-Chicago-Massacre-of-1812_59624
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kirkland, Joseph
+    alias: Kirkland, Major Joseph
+    birthdate: 1830
+    deathdate: 1894
+    gutenberg_agent_id: '37888'
+    url: http://www.gutenberg.org/2009/agents/37888
+description: ''
+gutenberg_issued: '2019-05-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59624'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Chicago Massacre of 1812
+url: http://www.gutenberg.org/ebooks/59624
